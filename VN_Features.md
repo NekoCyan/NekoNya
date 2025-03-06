@@ -15,7 +15,7 @@ _Phương thức thanh toán và tính năng_
     -   Momo
     -   Bank (Vietnam Internet Banking)
 
-_Việc mua Đăng Ký Vĩnh Viễn cho bạn quyền truy cập vào Công Cụ trong suốt tuổi thọ của nó. Lưu ý rằng việc chọn tùy chọn Đăng Ký Vĩnh Viễn đồng nghĩa với việc bạn chấp nhận những rủi ro có thể xảy ra trong tương lai._
+_Việc mua Đăng Ký Vĩnh Viễn cho bạn quyền truy cập vào Công Cụ trong suốt đời của nó. Lưu ý rằng việc chọn tùy chọn Đăng Ký Vĩnh Viễn đồng nghĩa với việc bạn chấp nhận những rủi ro có thể xảy ra trong tương lai._
 
 </details>
 
