@@ -1,6 +1,6 @@
 # Discord Tool - Black Market Tool (Business Market Tool)
 
-> ### _Terms of Service_
+_Terms of Service_
 
 <hr>
 
