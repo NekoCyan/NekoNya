@@ -4,6 +4,10 @@ _User Commands - Advanced/Full Commands_
 
 <hr>
 
+Before reading in below, if you are new/beginner to the tool, better to read [Beginner Commands](BeginnerCommands.md) first.
+
+<hr>
+
 Table of Contents
 
 -   [1. Folder commands guides](#1-folder-commands-guides)

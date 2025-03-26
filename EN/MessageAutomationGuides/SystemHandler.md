@@ -4,7 +4,7 @@ _Knowledge Guides - System Handler_
 
 <hr>
 
-> We have limit creating folder's maximum to 25 folders, so you must organize your folders on channels properly by follow the below.
+> We have limited on creating folder's maximum to 25 folders, so you must organize your folders on channels properly by the following below.
 
 <hr>
 
