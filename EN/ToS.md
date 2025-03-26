@@ -16,7 +16,7 @@ _By accessing or using the Tool, you agree to be bound by these Terms. If you do
     <summary><strong>1. About the tool</strong></summary>
     The Tool is designed to facilitate the automated sending of sales messages to sales channels on the Discord platform. It is intended for use by Roblox sellers, particularly those associated with games like GPO, Bloxfruit, etc..., by using the Tool, you acknowledge that it helps automate the sales process but does not guarantee any specific outcomes or results.
 
-> _For more informations about Payment Methods or Features, please refer to the [Features](EN_Features.md) page._
+> _For more informations about Payment Methods or Features, please refer to the [Features](Features.md) page._
 
 </details>
 

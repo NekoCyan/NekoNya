@@ -16,7 +16,7 @@ _Bằng cách truy cập hoặc sử dụng Công Cụ, bạn đồng ý tuân t
     <summary><strong>1. Về Công Cụ</strong></summary>
     Công Cụ được thiết kế để tạo điều kiện cho việc tự động gửi tin nhắn bán hàng đến các kênh bán hàng trên nền tảng Discord. Nó được dành cho người bán Roblox, đặc biệt là những người liên quan đến các trò chơi như GPO, Blox Fruit, v.v... Bằng cách sử dụng Công Cụ, bạn thừa nhận rằng nó giúp tự động hóa quá trình bán hàng, nhưng không đảm bảo bất kỳ kết quả hoặc thành công cụ thể nào.
 
-> _Để biết thêm thông tin về Phương Thức Thanh Toán hoặc Các Tính Năng, vui lòng tham khảo trang [Tính Năng](VN_Features.md)._
+> _Để biết thêm thông tin về Phương Thức Thanh Toán hoặc Các Tính Năng, vui lòng tham khảo trang [Tính Năng](Features.md)._
 
 </details>
 
