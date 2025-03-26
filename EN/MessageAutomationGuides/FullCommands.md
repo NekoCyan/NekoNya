@@ -19,7 +19,7 @@ Table of Contents
 
 > Used to handle timer, channels that you added, message that you setted and many purposes for the auto.
 
-_Click each section below to expand and see the details._
+_Click each sections below to expand and see the details._
 
 <details>
     <summary><strong>Select folder | Because of you can add many folders, so we will control specific folder by select it.</strong></summary>
@@ -87,7 +87,7 @@ _Click each section below to expand and see the details._
 
 ## 2. Timer commands guides
 
-_Click each section below to expand and see the details._
+_Click each sections below to expand and see the details._
 
 <details>
     <summary><strong>Set timer | Set the time for messages looping.</strong></summary>
@@ -102,7 +102,7 @@ Eg: `!!timer set 5m` # Sets the folder's timer to 5 minutes
 
 ## 3. Channel commands guides
 
-_Click each section below to expand and see the details._
+_Click each sections below to expand and see the details._
 
 <details>
     <summary><strong>Add channels.</strong></summary>
@@ -150,7 +150,7 @@ _Click each section below to expand and see the details._
 
 ## 4. Message commands guides
 
-_Click each section below to expand and see the details._
+_Click each sections below to expand and see the details._
 
 <details>
     <summary><strong>Set message | Set the message content that used to send.</strong></summary>
