@@ -13,9 +13,11 @@ _Presence Commands_
 -   `TEXT` - Any Text.
 -   `TYPE` - Presence types | Such as name, details, state, etc... checkout [Presence Types](presence_example.png) or image below.
 
-#### Presence Types<img id="presence-example" src="presence_example.png" alt="Presence Types" width="600" />
+#### Presence Types
 
-Command example with syntax definitions:
+<img id="presence-example" src="presence_example.png" alt="Presence Types" width="600" />
+
+#### Command example with syntax definitions:
 
 > if the command is `!!command {TEXT}` and you want to `TEXT` to be `Hello`, then you will type `!!command Hello`.
 > if the command is `!!set {URL} [TEXT]` and you want to `TEXT` to be nothing, then you will type `!!set https://www.youtube.com/watch?v=dQw4w9WgXcQ`.
