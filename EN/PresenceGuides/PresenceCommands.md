@@ -146,9 +146,8 @@ This section is about setting up your presence types by using command, see [Synt
 In `THE_TIME` field, you are allowed to put one of the following:
 - `1` - Display the uptime since the system startup.
 - `TIMEZONE` - Display the current time in the specific timezone.
-<br>
-You can choose your timezone in the link [https://en.wikipedia.org/wiki/List_of_tz_database_time_zones](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones)
-and put a text from `TZ identifier` on website to the `THE_TIME` field.
+  
+You can choose your timezone in the link [https://en.wikipedia.org/wiki/List_of_tz_database_time_zones](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones) and put a text from `TZ identifier` on website to the `THE_TIME` field.
 <br>
 For example: if my timezone with UTC offset is +07:00, I will put `Asia/Ho_Chi_Minh` to the `THE_TIME` field, so it will be:
 <br>
