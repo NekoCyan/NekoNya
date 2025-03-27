@@ -13,7 +13,7 @@ _Presence Commands_
 -   `TEXT` - Any Text.
 -   `TYPE` - Presence types | Such as name, details, state, etc... checkout [Presence Types](presence_example.png) or image below.
 
-#### Presence Types <img id="presence-example" src="presence_example.png" alt="Presence Types" width="600" />
+#### Presence Types<img id="presence-example" src="presence_example.png" alt="Presence Types" width="600" />
 
 Command example with syntax definitions:
 
