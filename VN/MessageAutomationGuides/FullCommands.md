@@ -21,7 +21,7 @@ Mục lục
 
 ## 1. Hướng dẫn lệnh Thư mục
 
-> Dùng để xử lý thời gian, kênh mà bạn đã thêm, tin nhắn mà bạn đã đặt và nhiều mục đích khác cho chế độ tự động.
+> Dùng để xử lý thời gian, kênh mà bạn đã thêm, tin nhắn mà bạn đã đặt và nhiều mục đích khác cho việc tự động.
 
 _Nhấp vào từng phần bên dưới để mở rộng và xem chi tiết._
 
