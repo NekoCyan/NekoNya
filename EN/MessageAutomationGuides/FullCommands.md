@@ -148,7 +148,7 @@ _Click each sections below to expand and see the details._
     <summary><strong>Reset channels | Complete delete all channels at once in the folder.</strong></summary>
     
 ```diff
-!!folder reset
+!!channel reset
 ```
 </details>
 
@@ -183,7 +183,32 @@ Command Example: I want to do **`daily`** command with bot id **`123`**, the inp
 
 ## 5. Attachment commands guides
 
-To be updated...
+<details>
+    <summary><strong>Set attachments | Set the message attachment that used to send with message content together.</strong></summary>
+    
+```diff
+!!attachment set (+ upload images at the same time with the command)
+```
+</details>
+
+<details>
+    <summary><strong>Show attachments | Show the attachments that you've set.</strong></summary>
+    
+```diff
+!!attachment show
+```
+
+It will show the link instead of uploading. Dont worry, it will be uploaded to the channel that you've set with the message content.
+
+</details>
+
+<details>
+    <summary><strong>Reset attachments | Complete delete all attachments at once in the folder.</strong></summary>
+    
+```diff
+!!attachment reset
+```
+</details>
 
 ## Dynamic folder on commands calling
 

@@ -49,10 +49,10 @@ Eg: `!!timer set 5m` # Sets the folder's timer to 5 minutes
 <br>
 
 <details open>
-    <summary><strong>[NOT AVAILABLE IN THIS TIME] 5. [Optional] Set Image as attachment.</strong></summary>
+    <summary><strong>[Optional] 5. Set Image as attachment.</strong></summary>
     
 ```diff
-!!attachment add (+ upload images)
+!!attachment set (+ upload images at the same time with the command)
 ```
 *Note: Both actions must be performed at the same time.*
 </details>
