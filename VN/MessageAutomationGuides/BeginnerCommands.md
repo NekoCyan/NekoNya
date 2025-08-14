@@ -49,10 +49,10 @@ Ví dụ: `!!thoigian chinhsua 5m` # Đặt thời gian của thư mục thành 
 <br>
 
 <details open>
-    <summary><strong>5. [Tùy chọn] Đặt Hình ảnh làm tệp đính kèm.</strong></summary>
+    <summary><strong>[Tùy chọn] 5. Đặt Hình ảnh làm tệp đính kèm.</strong></summary>
     
 ```diff
-!!dinhkem them (+ tải lên hình ảnh)
+!!dinhkem chinhsua (+ tải lên hình ảnh cùng lúc đồng thời với việc gửi lệnh)
 ```
 *Lưu ý: Cả hai hành động phải được thực hiện cùng lúc.*
 </details>

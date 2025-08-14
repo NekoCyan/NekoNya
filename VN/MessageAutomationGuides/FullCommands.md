@@ -183,7 +183,32 @@ Ví dụ lệnh: Muốn thực hiện lệnh **`daily`** trên bot có id là **
 
 ## 5. Hướng dẫn lệnh Đính kèm
 
-Sẽ được cập nhật...
+<details>
+    <summary><strong>Đặt đính kèm | Đặt ảnh đính kèm cho việc gửi cùng lúc với nội dung tin nhắn.</strong></summary>
+    
+```diff
+!!dinhkem chinhsua (+ tải lên hình ảnh cùng lúc đồng thời với việc gửi lệnh)
+```
+</details>
+
+<details>
+    <summary><strong>Hiển thị đính kèm | Hiển thị các đính kèm mà bạn đã đặt.</strong></summary>
+    
+```diff
+!!dinhkem hienthi
+```
+
+Nó sẽ hiển thị đường link thay vì tải lên. Nhưng đừng lo lắng, nó sẽ được tải lên ở kênh mà bạn đã chỉnh cùng với nội dung tin nhắn.
+
+</details>
+
+<details>
+    <summary><strong>Cài đặt lại đính kèm | Xóa hoàn toàn tất cả đính kèm cùng lúc trong thư mục.</strong></summary>
+    
+```diff
+!!dinhkem caidatlai
+```
+</details>
 
 ## Chủ động gọi tên thư mục trong lệnh (Thư mục động)
 
