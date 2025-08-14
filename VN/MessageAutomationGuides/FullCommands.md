@@ -183,6 +183,8 @@ Ví dụ lệnh: Muốn thực hiện lệnh **`daily`** trên bot có id là **
 
 ## 5. Hướng dẫn lệnh Đính kèm
 
+> LƯU Ý: Tệp đính kèm chỉ chấp nhận hình ảnh có các định dạng sau: `png`, `jpg`, `jpeg`, `gif`, `webp`.
+
 <details>
     <summary><strong>Đặt đính kèm | Đặt ảnh đính kèm cho việc gửi cùng lúc với nội dung tin nhắn.</strong></summary>
     

@@ -183,6 +183,8 @@ Command Example: I want to do **`daily`** command with bot id **`123`**, the inp
 
 ## 5. Attachment commands guides
 
+> NOTE: Attachments only accept images with these format types: `png`, `jpg`, `jpeg`, `gif`, `webp`.
+
 <details>
     <summary><strong>Set attachments | Set the message attachment that used to send with message content together.</strong></summary>
     

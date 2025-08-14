@@ -55,6 +55,8 @@ Ví dụ: `!!thoigian chinhsua 5m` # Đặt thời gian của thư mục thành 
 !!dinhkem chinhsua (+ tải lên hình ảnh cùng lúc đồng thời với việc gửi lệnh)
 ```
 *Lưu ý: Cả hai hành động phải được thực hiện cùng lúc.*
+<br>
+*Lưu ý 2: Tệp đính kèm chỉ chấp nhận hình ảnh có các định dạng sau: `png`, `jpg`, `jpeg`, `gif`, `webp`.*
 </details>
 
 <br>

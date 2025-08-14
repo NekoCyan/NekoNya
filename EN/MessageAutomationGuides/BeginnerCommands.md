@@ -55,6 +55,8 @@ Eg: `!!timer set 5m` # Sets the folder's timer to 5 minutes
 !!attachment set (+ upload images at the same time with the command)
 ```
 *Note: Both actions must be performed at the same time.*
+<br>
+*Note 2: Attachments only accept images with these format types: `png`, `jpg`, `jpeg`, `gif`, `webp`.*
 </details>
 
 <br>
