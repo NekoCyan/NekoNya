@@ -4,7 +4,7 @@ _Lệnh Người Dùng - Lệnh Nâng Cao/Đầy Đủ_
 
 <hr>
 
-Trước khi đọc phần dưới đây, nếu bạn là người mới/mới bắt đầu với công cụ này, tốt hơn hết hãy đọc [Beginner Commands](BeginnerCommands.md) trước.
+Trước khi đọc phần dưới đây, nếu bạn là người mới bắt đầu sử dụng công cụ này, tốt hơn hết hãy đọc [Lệnh Cơ Bản (Beginner Commands)](BeginnerCommands.md) trước.
 
 <hr>
 
