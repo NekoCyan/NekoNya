@@ -28,7 +28,7 @@ _Bằng cách truy cập hoặc sử dụng Công Cụ, bạn đồng ý tuân t
     <br>
     -   Đối với Người dùng Hàng Tháng: sau khi bắt đầu sử dụng dịch vụ, bạn không được phép chuyển quyền truy cập của Công Cụ sang bất kỳ tài khoản nào khác, dù tạm thời hay vĩnh viễn. Công Cụ này chỉ dành cho mục đích sử dụng cá nhân và không thể chuyển nhượng.
     <br>
-    -   Đối với Người dùng Hàng Tháng: bạn chỉ có thể chuyển quyền truy cập sang tài khoản khác trong trường hợp tài khoản Discord đang sử dụng dịch vụ này, đã bị Discord chấm dứt. Chúng tôi sẽ yêu cầu xác minh và cung cấp thêm thông tin để xử lý yêu cầu này.
+    -   Đối với Người dùng Trọn Đời: bạn chỉ có thể chuyển quyền truy cập sang tài khoản khác trong trường hợp tài khoản Discord đang sử dụng dịch vụ này, đã bị Discord chấm dứt. Chúng tôi sẽ yêu cầu xác minh và cung cấp thêm thông tin để xử lý yêu cầu này.
 
 </details>
 
