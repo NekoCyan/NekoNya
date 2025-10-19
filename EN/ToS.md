@@ -4,7 +4,7 @@ _Terms of Service_
 
 <hr>
 
-> **Effective Date: 23/08/2023.** > <br> > **Last Updated: 20/10/2025. (GMT+7)** > <br> > _Following format: Day/Month/Year (DD/MM/YYYY)._
+> **Effective Date: 23/08/2023.** <br> **Last Updated: 20/10/2025. (GMT+7)** <br> _Following format: Day/Month/Year (DD/MM/YYYY)._
 
 <hr>
 

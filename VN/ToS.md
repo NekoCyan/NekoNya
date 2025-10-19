@@ -4,7 +4,7 @@ _Điều khoản dịch vụ_
 
 <hr>
 
-> **Ngày Hiệu Lực: 23/08/2023.** > <br> > **Cập Nhật Lần Cuối: 20/10/2025. (GMT+7)** > <br> > _Theo định dạng: Ngày/Tháng/Năm (DD/MM/YYYY)._
+> **Ngày Hiệu Lực: 23/08/2023.** <br> **Cập Nhật Lần Cuối: 20/10/2025. (GMT+7)** <br> _Theo định dạng: Ngày/Tháng/Năm (DD/MM/YYYY)._
 
 <hr>
 
