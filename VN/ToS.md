@@ -4,7 +4,7 @@ _Điều khoản dịch vụ_
 
 <hr>
 
-> **Ngày Hiệu Lực: 23/08/2023.** <br> **Cập Nhật Lần Cuối: 06/03/2025.** <br> _Theo định dạng: Ngày/Tháng/Năm (DD/MM/YYYY)._
+> **Ngày Hiệu Lực: 23/08/2023.** > <br> > **Cập Nhật Lần Cuối: 20/10/2025. (GMT+7)** > <br> > _Theo định dạng: Ngày/Tháng/Năm (DD/MM/YYYY)._
 
 <hr>
 
@@ -24,7 +24,11 @@ _Bằng cách truy cập hoặc sử dụng Công Cụ, bạn đồng ý tuân t
     <summary><strong>2. Hạn Chế</strong></summary>
     -   Công Cụ không được sử dụng để gửi tin nhắn trực tiếp đến người dùng hoặc tham gia bất kỳ hình thức cuộc tấn công nào.
     <br>
-    -   Một khi bạn đã bắt đầu sử dụng Công Cụ, bạn bị cấm chuyển quyền truy cập của mình vào Công Cụ cho tài khoản khác, dù tạm thời hay vĩnh viễn, trừ khi tài khoản của bạn đã bị chấm dứt. Công Cụ chỉ dành cho việc sử dụng cá nhân và không thể chuyển nhượng, ngoại trừ trong trường hợp tài khoản bị chấm dứt bởi Discord.
+    -   Việc sử dụng Công Cụ cho bất kỳ hoạt động bất hợp pháp nào, bao gồm lừa đảo hoặc hành vi gian lận, đều bị nghiêm cấm.
+    <br>
+    -   Đối với Người dùng Hàng Tháng: sau khi bắt đầu sử dụng dịch vụ, bạn không được phép chuyển quyền truy cập của Công Cụ sang bất kỳ tài khoản nào khác, dù tạm thời hay vĩnh viễn. Công Cụ này chỉ dành cho mục đích sử dụng cá nhân và không thể chuyển nhượng.
+    <br>
+    -   Đối với Người dùng Hàng Tháng: bạn chỉ có thể chuyển quyền truy cập sang tài khoản khác trong trường hợp tài khoản Discord đang sử dụng dịch vụ này, đã bị Discord chấm dứt. Chúng tôi sẽ yêu cầu xác minh và cung cấp thêm thông tin để xử lý yêu cầu này.
 
 </details>
 

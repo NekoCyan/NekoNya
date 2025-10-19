@@ -4,7 +4,7 @@ _Terms of Service_
 
 <hr>
 
-> **Effective Date: 23/08/2023.** <br> **Last Updated: 06/03/2025.** <br> _Following format: Day/Month/Year (DD/MM/YYYY)._
+> **Effective Date: 23/08/2023.** > <br> > **Last Updated: 20/10/2025. (GMT+7)** > <br> > _Following format: Day/Month/Year (DD/MM/YYYY)._
 
 <hr>
 
@@ -24,7 +24,11 @@ _By accessing or using the Tool, you agree to be bound by these Terms. If you do
     <summary><strong>2. Restrictions</strong></summary>
     -   The Tool is not to be used for direct messaging users or engaging in any form of raiding.
     <br>
-    -   Once you have started using the service, you are prohibited from transferring your access to the Tool to any other account, whether temporarily or permanently, except in cases where your account has been terminated. The Tool is intended for individual use only and is non-transferable, except under circumstances of account termination.
+    -   The use of the Tool for any illegal activities, including  scams or fraudulent behavior, is strictly prohibited.
+    <br>
+    -   For Monthly Users: once you have started using the service, you are prohibited from transferring your access to the Tool to any other account, whether temporarily or permanently. The Tool is intended for individual use only and is non-transferable.
+    <br>
+    -   For Lifetime Users: you are able to transfer your access to another account only in case of Discord account that using the Tool, has been terminated by Discord. We will ask additional verification and information as it will be required to process such a request.
 
 </details>
 
