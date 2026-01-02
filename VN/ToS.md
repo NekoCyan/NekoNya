@@ -4,7 +4,7 @@ _Điều khoản dịch vụ_
 
 <hr>
 
-> **Ngày Hiệu Lực: 23/08/2023.** <br> **Cập Nhật Lần Cuối: 20/10/2025. (GMT+7)** <br> _Theo định dạng: Ngày/Tháng/Năm (DD/MM/YYYY)._
+> **Ngày Hiệu Lực: 23/08/2023.** <br> **Cập Nhật Lần Cuối: 02/01/2026. (GMT+7)** <br> _Theo định dạng: Ngày/Tháng/Năm (DD/MM/YYYY)._
 
 <hr>
 
@@ -25,6 +25,10 @@ _Bằng cách truy cập hoặc sử dụng Công Cụ, bạn đồng ý tuân t
     -   Công Cụ không được sử dụng để gửi tin nhắn trực tiếp đến người dùng hoặc tham gia bất kỳ hình thức cuộc tấn công nào.
     <br>
     -   Việc sử dụng Công Cụ cho bất kỳ hoạt động bất hợp pháp nào, bao gồm lừa đảo hoặc hành vi gian lận, đều bị nghiêm cấm.
+    <br>
+    -   Nếu bạn làm gián đoạn hoạt động của Công Cụ do hành động từ phía bạn (bao gồm nhưng không giới hạn ở việc tự reset/cài đặt lại hoặc làm mất hiệu lực Token), bạn sẽ không được phép yêu cầu nạp lại, bù thời gian, hoặc bồi hoàn cho số ngày đăng ký dịch vụ còn thiếu.
+    <br>
+    *Ngoại lệ*: Nếu Công Cụ ngừng hoạt động do lỗi không xuất phát từ phía người dùng, bạn phải liên hệ với người bán ngay lập tức. Trong trường hợp này, việc khôi phục hoặc cung cấp lại sẽ do người bán xem xét và quyết định.
     <br>
     -   Đối với Người dùng Hàng Tháng: sau khi bắt đầu sử dụng dịch vụ, bạn không được phép chuyển quyền truy cập của Công Cụ sang bất kỳ tài khoản nào khác, dù tạm thời hay vĩnh viễn. Công Cụ này chỉ dành cho mục đích sử dụng cá nhân và không thể chuyển nhượng.
     <br>

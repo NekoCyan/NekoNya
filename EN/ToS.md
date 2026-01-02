@@ -4,7 +4,7 @@ _Terms of Service_
 
 <hr>
 
-> **Effective Date: 23/08/2023.** <br> **Last Updated: 20/10/2025. (GMT+7)** <br> _Following format: Day/Month/Year (DD/MM/YYYY)._
+> **Effective Date: 23/08/2023.** <br> **Last Updated: 02/01/2026. (GMT+7)** <br> _Following format: Day/Month/Year (DD/MM/YYYY)._
 
 <hr>
 
@@ -25,6 +25,10 @@ _By accessing or using the Tool, you agree to be bound by these Terms. If you do
     -   The Tool is not to be used for direct messaging users or engaging in any form of raiding.
     <br>
     -   The use of the Tool for any illegal activities, including  scams or fraudulent behavior, is strictly prohibited.
+    <br>
+    -   If you interrupt the Tool’s operation due to your own actions (including but not limited to resetting or invalidating your Token), you are not eligible to request a recharge, replacement, or compensation for any lost time or remaining days of your service subscription.
+    <br>
+    *Exception*: If the Tool becomes non-functional due to an issue not caused by the user, you must notify the seller immediately. In such cases, recovery or restoration may be provided at the seller’s discretion.
     <br>
     -   For Monthly Users: once you have started using the service, you are prohibited from transferring your access to the Tool to any other account, whether temporarily or permanently. The Tool is intended for individual use only and is non-transferable.
     <br>
