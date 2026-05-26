@@ -11,10 +11,11 @@ Trước khi đọc phần dưới đây, nếu bạn là người mới bắt �
 Mục lục
 
 -   [1. Hướng dẫn lệnh Thư mục](#1-hướng-dẫn-lệnh-thư-mục)
--   [2. Hướng dẫn lệnh Thời gian](#2-hướng-dẫn-lệnh-thời-gian)
--   [3. Hướng dẫn lệnh Kênh](#3-hướng-dẫn-lệnh-kênh)
--   [4. Hướng dẫn lệnh Tin nhắn](#4-hướng-dẫn-lệnh-tin-nhắn)
--   [5. Hướng dẫn lệnh Đính kèm](#5-hướng-dẫn-lệnh-đính-kèm)
+-   [2. Hướng dẫn lệnh Cấu hình thư mục](#2-hướng-dẫn-lệnh-cấu-hình-thư-mục)
+-   [3. Hướng dẫn lệnh Thời gian](#3-hướng-dẫn-lệnh-thời-gian)
+-   [4. Hướng dẫn lệnh Kênh](#4-hướng-dẫn-lệnh-kênh)
+-   [5. Hướng dẫn lệnh Tin nhắn](#5-hướng-dẫn-lệnh-tin-nhắn)
+-   [6. Hướng dẫn lệnh Đính kèm](#6-hướng-dẫn-lệnh-đính-kèm)
 -   [Chủ động gọi tên thư mục trong lệnh (Thư mục động)](#chủ-động-gọi-tên-thư-mục-trong-lệnh-thư-mục-động)
 
 <hr>
@@ -89,7 +90,40 @@ _Nhấp vào từng phần bên dưới để mở rộng và xem chi tiết._
 ```
 </details>
 
-## 2. Hướng dẫn lệnh Thời gian
+## 2. Hướng dẫn lệnh Cấu hình thư mục
+
+> Dùng để cấu hình các cài đặt hành vi bổ sung cho thư mục.
+
+_Nhấp vào từng phần bên dưới để mở rộng và xem chi tiết._
+
+<details>
+    <summary><strong>Hiển thị cấu hình thư mục | Hiển thị danh sách tất cả các cấu hình khả dụng cùng với số thứ tự của chúng.</strong></summary>
+    
+```diff
+!!cauhinhthumuc hienthi
+```
+</details>
+
+<details>
+    <summary><strong>Đặt cấu hình thư mục | Bật hoặc tắt một cài đặt cụ thể cho thư mục đang chọn (hoặc thư mục được chỉ định).</strong></summary>
+    
+```diff
+!!cauhinhthumuc SỐ_CẤU_HÌNH GIÁ_TRỊ
+```
+
+`GIÁ_TRỊ` chấp nhận `bat` hoặc `tat`.
+
+Các cấu hình khả dụng:
+- `1` (`deleteOldMessageOnNewMessage`) — Tự động xóa tin nhắn cũ khi chuẩn bị gửi tin nhắn mới.
+
+*Bạn cũng có thể chỉ định trực tiếp một hoặc nhiều thư mục:*
+
+```diff
+!!cauhinhthumuc SỐ_CẤU_HÌNH GIÁ_TRỊ -FOLDER1 -FOLDER2
+```
+</details>
+
+## 3. Hướng dẫn lệnh Thời gian
 
 _Nhấp vào từng phần bên dưới để mở rộng và xem chi tiết._
 
@@ -104,7 +138,7 @@ Timer phải có định dạng `1s`, `2m`, `3h`, `4d` (tức là 1 giây, 2 ph�
 Ví dụ: `!!thoigian chinhsua 5m` # Đặt thời gian của thư mục thành 5 phút
 </details>
 
-## 3. Hướng dẫn lệnh Kênh
+## 4. Hướng dẫn lệnh Kênh
 
 _Nhấp vào từng phần bên dưới để mở rộng và xem chi tiết._
 
@@ -152,7 +186,7 @@ _Nhấp vào từng phần bên dưới để mở rộng và xem chi tiết._
 ```
 </details>
 
-## 4. Hướng dẫn lệnh Tin nhắn
+## 5. Hướng dẫn lệnh Tin nhắn
 
 _Nhấp vào từng phần bên dưới để mở rộng và xem chi tiết._
 
@@ -181,7 +215,7 @@ Ví dụ lệnh: Muốn thực hiện lệnh **`daily`** trên bot có id là **
 ```
 </details>
 
-## 5. Hướng dẫn lệnh Đính kèm
+## 6. Hướng dẫn lệnh Đính kèm
 
 > LƯU Ý: Tệp đính kèm chỉ chấp nhận hình ảnh có các định dạng sau: `png`, `jpg`, `jpeg`, `gif`, `webp`.
 

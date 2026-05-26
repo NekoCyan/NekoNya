@@ -48,7 +48,7 @@ Eg: `!!timer set 5m` # Sets the folder's timer to 5 minutes
 
 <br>
 
-<details open>
+<details>
     <summary><strong>[Optional] 5. Set Image as attachment.</strong></summary>
     
 ```diff
@@ -61,8 +61,25 @@ Eg: `!!timer set 5m` # Sets the folder's timer to 5 minutes
 
 <br>
 
+<details>
+    <summary><strong>[Optional] 6. Configure Folder settings | Automatically delete old message before sending new message.</strong></summary>
+
+```diff
+!!folderconfig 1 on
+```
+
+_Where `1` is the config number for `Automatically delete old message before sending new message`._
+
+Use `!!folderconfig show` to see the list of all available configurations.
+
+Use `!!folder show` to see which configurations are enabled or disabled for the folder.
+
+</details>
+
+<br>
+
 <details open>
-    <summary><strong>6. Enable the Folder | All Set, head over to turn on the auto.</strong></summary>
+    <summary><strong>7. Enable the Folder | All Set, head over to turn on the auto.</strong></summary>
     
 ```diff
 !!folder on

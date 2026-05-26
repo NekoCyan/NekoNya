@@ -11,10 +11,11 @@ Before reading in below, if you are new/beginner to the tool, better to read [Be
 Table of Contents
 
 -   [1. Folder commands guides](#1-folder-commands-guides)
--   [2. Timer commands guides](#2-timer-commands-guides)
--   [3. Channel commands guides](#3-channel-commands-guides)
--   [4. Message commands guides](#4-message-commands-guides)
--   [5. Attachment commands guides](#5-attachment-commands-guides)
+-   [2. Folder config commands guides](#2-folder-config-commands-guides)
+-   [3. Timer commands guides](#3-timer-commands-guides)
+-   [4. Channel commands guides](#4-channel-commands-guides)
+-   [5. Message commands guides](#5-message-commands-guides)
+-   [6. Attachment commands guides](#6-attachment-commands-guides)
 -   [Dynamic folder on commands calling](#dynamic-folder-on-commands-calling)
 
 <hr>
@@ -89,7 +90,40 @@ _Click each sections below to expand and see the details._
 ```
 </details>
 
-## 2. Timer commands guides
+## 2. Folder config commands guides
+
+> Used to configure additional behavior settings for a folder.
+
+_Click each sections below to expand and see the details._
+
+<details>
+    <summary><strong>Show folder configs | Show the list of all available configurations with their numbers.</strong></summary>
+    
+```diff
+!!folderconfig show
+```
+</details>
+
+<details>
+    <summary><strong>Set a folder config | Toggle a specific configuration on or off for the selected (or specified) folder.</strong></summary>
+    
+```diff
+!!folderconfig NUMBER_OF_CONFIG VALUE
+```
+
+`VALUE` accepts `on` or `off`.
+
+Available configurations:
+- `1` (`deleteOldMessageOnNewMessage`) — Automatically delete old message when preparing to send new message.
+
+*You can also target one or multiple specific folders directly:*
+
+```diff
+!!folderconfig NUMBER_OF_CONFIG VALUE -FOLDER1 -FOLDER2
+```
+</details>
+
+## 3. Timer commands guides
 
 _Click each sections below to expand and see the details._
 
@@ -104,7 +138,7 @@ The timer should be in the format of `1s`, `2m`, `3h`, `4d` (a.k.a 1 second, 2 m
 Eg: `!!timer set 5m` # Sets the folder's timer to 5 minutes
 </details>
 
-## 3. Channel commands guides
+## 4. Channel commands guides
 
 _Click each sections below to expand and see the details._
 
@@ -152,7 +186,7 @@ _Click each sections below to expand and see the details._
 ```
 </details>
 
-## 4. Message commands guides
+## 5. Message commands guides
 
 _Click each sections below to expand and see the details._
 
@@ -181,7 +215,7 @@ Command Example: I want to do **`daily`** command with bot id **`123`**, the inp
 ```
 </details>
 
-## 5. Attachment commands guides
+## 6. Attachment commands guides
 
 > NOTE: Attachments only accept images with these format types: `png`, `jpg`, `jpeg`, `gif`, `webp`.
 

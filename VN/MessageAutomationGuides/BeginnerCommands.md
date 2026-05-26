@@ -48,7 +48,7 @@ Ví dụ: `!!thoigian chinhsua 5m` # Đặt thời gian của thư mục thành 
 
 <br>
 
-<details open>
+<details>
     <summary><strong>[Tùy chọn] 5. Đặt Hình ảnh làm tệp đính kèm.</strong></summary>
     
 ```diff
@@ -61,8 +61,25 @@ Ví dụ: `!!thoigian chinhsua 5m` # Đặt thời gian của thư mục thành 
 
 <br>
 
+<details>
+    <summary><strong>[Tùy chọn] 6. Cấu hình cài đặt Thư mục | Tự động xóa tin nhắn cũ trước khi gửi tin nhắn mới.</strong></summary>
+
+```diff
+!!cauhinhthumuc 1 bat
+```
+
+_Với `1` là số cấu hình của `Tự động xóa tin nhắn cũ trước khi gửi tin nhắn mới`._
+
+Dùng `!!cauhinhthumuc thongtin` để xem danh sách tất cả các cấu hình khả dụng.
+
+Dùng `!!thumuc hienthi` để xem các cấu hình đã được bật hoặc tắt của thư mục.
+
+</details>
+
+<br>
+
 <details open>
-    <summary><strong>6. Bật Thư mục | Đã thiết lập xong, hãy bật chế độ tự động.</strong></summary>
+    <summary><strong>7. Bật Thư mục | Đã thiết lập xong, hãy bật chế độ tự động.</strong></summary>
     
 ```diff
 !!thumuc bat
